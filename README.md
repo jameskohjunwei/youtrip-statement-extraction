@@ -14,4 +14,6 @@
  3. Change the path of the pdf to your sample file path.
  4. Run the script to make sure your environment works before you make modifications to fit your need.
 
-* Feel free to contact me via a comment on this repo *
+
+
+Feel free to contact me via a comment on this repo
