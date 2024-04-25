@@ -1,5 +1,5 @@
 # Youtrip Statement Extraction
- Using a Python script, this tool efficiently converts PDF statements into a CSV file format.
+This python script efficiently converts PDF statements into a CSV file format.
 
  # Why did i write this script?
  I have a slight obsession with retrospectively tracking my finances - my initial credit card statement project was the catalyst to my curiousity [see more here](https://github.com/jameskohjunwei/monthly-finance-automation). This script is a follow up to that system.
