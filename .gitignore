@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+
+# Optional: common Python cache and temporary files
+__pycache__/
+
+*.csv
+*.pdf
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.DS_Store
+.ipynb_checkpoints/
+
+# Optional: ignore VS Code and Jupyter metadata
+.vscode/
+*.ipynb_checkpoints/
+
