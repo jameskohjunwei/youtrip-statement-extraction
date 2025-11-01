@@ -3,7 +3,7 @@ venv/
 
 # Optional: common Python cache and temporary files
 __pycache__/
-
+*.log
 *.csv
 *.pdf
 *.pyc
